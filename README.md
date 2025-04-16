@@ -1,4 +1,4 @@
-# Person API
+# API Gerenciador de Cadastro de Pessoas
 
 Uma API RESTful minimalista em ASP NET Core para gerenciar registros de pessoas (CRUD) usando Entity Framework Core com SQLite e documentação Swagger/OpenAPI.
 
